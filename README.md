@@ -36,3 +36,7 @@
 2. 새로운 터미널을 열어 cd views로 이동 후, python news.py로 실행
 ---
 .env파일로 api key 별도 보관
+
+<img width="882" height="802" alt="image" src="https://github.com/user-attachments/assets/865dbd7f-342c-4494-a85a-ae0dc0b172f3" />
+
+
